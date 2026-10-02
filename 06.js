@@ -21,7 +21,7 @@ function tratamentoCondicionalExcecoes() {
 
     console.log(
         "JSON válido:",
-        safeParseCondicional('{"nome": "Lorena"}')
+        safeParseCondicional('{"nome": "Anna"}')
     );
 
     console.log(
